@@ -15,4 +15,6 @@ body {
 }
 .section4 {
   background-image: url(../img/backgrounds/foodsBg.jpg);
+  background-size: cover;
+  text-align: center;
 }
