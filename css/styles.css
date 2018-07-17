@@ -1,7 +1,29 @@
+.menu {
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+}
 .landing {
   text-align: center;
   background-size: cover;
   background-image: url(../img/backgrounds/landing.jpg);
+}
+#happyHour {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  padding-left: 1px;
+}
+#partyTime{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: red;
+  font-size: 15px;
+  padding-left: 1px;
 }
 .fastfoodimg {
   padding-top: 25px;
@@ -13,6 +35,7 @@ body {
   margin: 20px;
   font-size: 25px;
 }
+
 /*section 4 stylings*/
 .section4 {
   background-image: url(../img/backgrounds/foodsBg.jpg);
